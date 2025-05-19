@@ -1,1 +1,3 @@
-# hejing_data_analysis
+# data_analysis
+这里是有关我做的一些数据分析的项目，会不断更新
+1.关于比特币10年价格数据（2014-2024）的探索（https://www.heywhale.com/mw/project/66e05925897851404c9783c3/content）
